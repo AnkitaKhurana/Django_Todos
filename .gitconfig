@@ -14,3 +14,8 @@
         hist = log --graph --oneline --decorate
         st = status
 
+[user]
+	email = ankita0096@gmail.com
+	name = Ankita Khurana
+[push]
+	default = simple
